@@ -384,8 +384,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print(f"\n{Fore.RED}Scan interrupted by user{Style.RESET_ALL}")
         sys.exit()
-```
     return filename
 ```
-
----
