@@ -1,5 +1,3 @@
-# Enhanced Port Scanner
-
 A professional-grade, multi-threaded TCP port scanner built in Python with service detection, banner grabbing, and multiple export formats.
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
@@ -76,6 +74,3 @@ python scanner.py -t example.com -p common -o json
 ## License
 
 This project is licensed under the MIT License.
-```
-
----
