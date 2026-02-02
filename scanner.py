@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 """
 Enhanced Port Scanner with Service Detection
